@@ -1,0 +1,931 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 17:22:47 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>Hong Kong Protest Live Updates: Police Disperse Protesters Outside Legislative Building</title>
+      <link>https://www.nytimes.com/2019/06/30/world/asia/hong-kong-protest-live-updates.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/world/asia/hong-kong-protest-live-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/world/asia/hong-kong-protest-live-updates.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Protesters had mostly cleared out of the Legislative Council building after 3 hours of occupation. Then a cordon of riot police used tear gas and charged to scatter the crowd.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:22:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, Carrie (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/world/01hongkong-video/01hongkong-video-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>On Hong Kong Handover Anniversary, Many Fear Loss of Freedoms</title>
+      <link>https://www.nytimes.com/2019/07/01/world/asia/hong-kong-china-handover.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/world/asia/hong-kong-china-handover.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/world/asia/hong-kong-china-handover.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>‘One country, two systems’ was Beijing’s pledge when it took back a former British colony. But concerns over civil liberties are mounting.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:05:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, Carrie (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/world/00hongkong-promises-1sub/00hongkong-promises-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Torsten Blackwood/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>July 1997: Handover.</media:description>
+    </item>
+    <item>
+      <title>Why Many in China Oppose Hong Kong’s Protests</title>
+      <link>https://www.nytimes.com/2019/07/01/business/hong-kong-china-protests.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/business/hong-kong-china-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/business/hong-kong-china-protests.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>It goes beyond propaganda.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:51:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/27/business/00newworld-01/00newworld-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>A democracy rally in Hong Kong last week.</media:description>
+    </item>
+    <item>
+      <title>Iran Breaches Critical Limit on Nuclear Fuel Under 2015 Deal</title>
+      <link>https://www.nytimes.com/2019/07/01/us/politics/iran-nuclear-limit-compliance.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/us/politics/iran-nuclear-limit-compliance.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/us/politics/iran-nuclear-limit-compliance.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The violation does not by itself give the country the material for a nuclear weapon, but it signals that Tehran may be willing to abandon the pact’s limits.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:11:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uranium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zarif, Mohammad Javad</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/26/us/00dc-iranHFO-1/merlin_157023003_794f0493-87e3-43c4-861d-09be0703c417-moth.jpg" width="151"></media:content>
+      <media:credit>Iranian Presidency Office, via Associated Press</media:credit>
+      <media:description>President Hassan Rouhani of Iran in 2018. He said this year that he intended to walk away from the nuclear deal’s restrictions.</media:description>
+    </item>
+    <item>
+      <title>In New Talks, U.S. May Settle for a Nuclear Freeze by North Korea</title>
+      <link>https://www.nytimes.com/2019/06/30/world/asia/trump-kim-north-korea-negotiations.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/world/asia/trump-kim-north-korea-negotiations.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/world/asia/trump-kim-north-korea-negotiations.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The idea taking shape inside the Trump administration would amount to negotiating a nuclear freeze that essentially enshrines the status quo, tacitly accepting the North as a nuclear power.</description>
+      <dc:creator>Michael Crowley and David E. Sanger</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 06:13:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/world/30assess-sub/30assess-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump and North Korea’s leader, Kim Jong-un, on the North Korean side of the Demilitarized Zone on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Ivanka Trump Tests Her Diplomatic Chops and Riles a Legion of Critics</title>
+      <link>https://www.nytimes.com/2019/07/01/us/politics/ivanka-trump-north-korea-g20.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/us/politics/ivanka-trump-north-korea-g20.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/us/politics/ivanka-trump-north-korea-g20.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>President Trump’s elder daughter used a G20 summit and then the Demilitarized Zone to test her role as budding stateswoman for the administration.</description>
+      <dc:creator>Katie Rogers</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:09:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lagarde, Christine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/world/01dc-ivanka-1/01dc-ivanka-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Ivanka Trump, the president’s elder daughter and senior adviser, at the Demilitarized Zone in South Korea on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Bombing Kills Dozens and Hurts Schoolchildren as Taliban Talks Resume</title>
+      <link>https://www.nytimes.com/2019/07/01/world/asia/afghanistan-bombing-war-museum.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/world/asia/afghanistan-bombing-war-museum.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/world/asia/afghanistan-bombing-war-museum.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>While negotiators press toward a deal to withdraw U.S. troops, the Taliban set off bombs that wrecked a museum, TV station and a school in Kabul, Afghanistan.</description>
+      <dc:creator>Fatima Faizi, Rod Nordland and Thomas Gibbons-Neff</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 11:33:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/world/01afghanistan-1sub/01afghanistan-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Rahmat Gul/Associated Press</media:credit>
+      <media:description>Smoke billowing after a bombing in Kabul, Afghanistan, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Alabamians Defend Arrest of Woman Whose Fetus Died in Shooting</title>
+      <link>https://www.nytimes.com/2019/06/30/us/alabama-woman-marshae-jones.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/us/alabama-woman-marshae-jones.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/us/alabama-woman-marshae-jones.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The indictment of a woman in the shooting death of her fetus has sparked outrage across the country. But in Alabama, many people consider it just.</description>
+      <dc:creator>Farah Stockman</dc:creator>
+      <pubDate>Sun, 30 Jun 2019 22:23:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Marshae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jemison, Ebony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jefferson County (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pleasant Grove (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/us/30alabama/30alabama-moth.jpg" width="151"></media:content>
+      <media:description>An undated photo of Marshae Jones, provided by her family.</media:description>
+    </item>
+    <item>
+      <title>Consumers Are Spending. Businesses Aren’t. Who’s Right About the Future?</title>
+      <link>https://www.nytimes.com/2019/07/01/upshot/economic-forecast-consumers-businesses.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/upshot/economic-forecast-consumers-businesses.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/upshot/economic-forecast-consumers-businesses.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Forecasting is tricky when important economic indicators are pointing in different directions.</description>
+      <dc:creator>Neil Irwin</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:51:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Confidence (Economic Indicator)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/upshot/01up-economy1/01up-economy1-moth.jpg" width="151"></media:content>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <media:description>American consumption spending keeps showing healthy growth.</media:description>
+    </item>
+    <item>
+      <title>S&amp;P and Dow Follow Global Markets Higher, as Investors Take Heart in Trade Thaw</title>
+      <link>https://www.nytimes.com/2019/07/01/business/global-markets.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/business/global-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/business/global-markets.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Markets took heart in the resumption of negotiations between Washington and Beijing. Still, many doubt the two sides can reach a deal anytime soon.</description>
+      <dc:creator>Alexandra Stevenson and Matt Phillips</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:34:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/business/01markets-1alt/01markets-1alt-moth-v3.png" width="151"></media:content>
+    </item>
+    <item>
+      <title>Kamala Harris and Classmates Were Bused Across Berkeley. The Experience Changed Them.</title>
+      <link>https://www.nytimes.com/2019/06/30/us/politics/kamala-harris-berkeley-busing.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/us/politics/kamala-harris-berkeley-busing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/us/politics/kamala-harris-berkeley-busing.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Fellow Berkeley public school students remember the early days of the integration effort: “We were all just kids trying to figure it out on our own.”</description>
+      <dc:creator>Nellie Bowles</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 04:30:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berkeley (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/us/politics/30BERKELEY1/30BERKELEY1-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Students boarded a school bus in Berkeley, Calif., in 1970. Students, including a young Kamala Harris, were bused to different neighborhoods in an effort to racially integrate the city’s schools.</media:description>
+    </item>
+    <item>
+      <title>North Korea, Hong Kong, N.B.A.: Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2019/07/01/briefing/north-korea-hong-kong-nba.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/briefing/north-korea-hong-kong-nba.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/briefing/north-korea-hong-kong-nba.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here’s what you need to know.</description>
+      <dc:creator>Chris Stanford</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fewer Cars on 14th Street? Not Just Yet</title>
+      <link>https://www.nytimes.com/2019/07/01/nyregion/newyorktoday/nyc-news-14th-street-busway.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/nyregion/newyorktoday/nyc-news-14th-street-busway.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/nyregion/newyorktoday/nyc-news-14th-street-busway.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Monday: A judge has halted New York&#39;s plan to turn the busy crosstown route into a transit corridor mainly for buses, trucks and emergency vehicles.</description>
+      <dc:creator>Azi Paybarah</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:01:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saviello, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transportation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/28/nyregion/01nytoday-lede/28street-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Inside the Migrant Detention Center in Clint, Tex.</title>
+      <link>https://www.nytimes.com/2019/07/01/podcasts/the-daily/migrant-children-border-detention-clint-texas.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/podcasts/the-daily/migrant-children-border-detention-clint-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/podcasts/the-daily/migrant-children-border-detention-clint-texas.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>“Safe and sanitary” conditions are legally required for detained migrant children. Reports from a Texas border station set off an outcry that those standards weren’t being met.</description>
+      <pubDate>Mon, 01 Jul 2019 14:44:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clint (Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/podcasts/01daily1/01daily1-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>Lawyers who visited a border station in Clint, Tex., last month reported filthy and negligent conditions for the young migrants who were detained there.</media:description>
+    </item>
+    <item>
+      <title>‘Your Heritage Is Taken Away’: The Closing of 3 Historically Black Colleges</title>
+      <link>https://www.nytimes.com/2019/06/28/us/hbcu-closed-graduates.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/28/us/hbcu-closed-graduates.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/28/us/hbcu-closed-graduates.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>For nearly 200 years, historically black colleges and universities have educated thousands of students, but they continue to face an uncertain future.</description>
+      <dc:creator>Wadzanai Mhute</dc:creator>
+      <pubDate>Sat, 29 Jun 2019 12:51:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historically Black Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bennett College for Women</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Concordia College</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/28/us/00hbcu-bennett/00hbcu-bennett-moth.jpg" width="151"></media:content>
+      <media:credit>Jeremy M. Lange for The New York Times</media:credit>
+      <media:description>The main quad of Bennett College.</media:description>
+    </item>
+    <item>
+      <title>San Francisco Banned Facial Recognition. Will California Follow?</title>
+      <link>https://www.nytimes.com/2019/07/01/us/facial-recognition-san-francisco.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/us/facial-recognition-san-francisco.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/us/facial-recognition-san-francisco.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Monday: A debate about tech, surveillance and privacy. Also: Gov. Gavin Newsom’s first budget; and cheers to Negronis.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 12:56:16 +0000</pubDate>
+      <category domain="">California Today</category>
+    </item>
+    <item>
+      <title>Do the Republicans Even Believe in Democracy Anymore?</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/republicans-trump-democracy.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/republicans-trump-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/republicans-trump-democracy.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>They pay lip service to it, but they actively try to undermine its institutions.</description>
+      <dc:creator>Michael Tomasky</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levitsky, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ziblatt, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/01tomaskyWeb/01tomaskyWeb-moth.jpg" width="151"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Please Stop Telling Me America is Great</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/america-great.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/america-great.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/america-great.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Politicians love to say it’s the greatest, but the numbers (and reality) don’t back them up.</description>
+      <dc:creator>Taige Jensen and Nayeema Raza</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Elections (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization for Economic Cooperation and Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/04/30/autossell/america-is-ok/america-is-ok-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Trump-Kim Meeting Was Great TV. It Was Also Something Much More Important.</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/north-korea.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/north-korea.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/north-korea.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>With his visit to the Demilitarized Zone, the president is opening the door for real negotiations.</description>
+      <dc:creator>Joel S. Wit</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Korean Demilitarized Zone</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/01witWeb/01witWeb-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump met with Kim Jong-un, leader of North Korea, in the Korean Peninsula’s Demilitarized Zone, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Iran Is Rushing to Build a Nuclear Weapon — and Trump Can’t Stop It</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/iran-is-rushing-to-build-a-nuclear-weapon-and-trump-cant-stop-it.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/iran-is-rushing-to-build-a-nuclear-weapon-and-trump-cant-stop-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/iran-is-rushing-to-build-a-nuclear-weapon-and-trump-cant-stop-it.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The White House strategy of “maximum pressure” is backfiring in the most dangerous way possible.</description>
+      <dc:creator>John J. Mearsheimer</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>How to Defy the Catholic Church</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/how-to-defy-the-catholic-church.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/how-to-defy-the-catholic-church.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/how-to-defy-the-catholic-church.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Believers have a spiritual obligation to defend their L.G.B.T.Q. brothers and sisters, even against archbishops.</description>
+      <dc:creator>Margaret Renkl</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indianapolis (Ind)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/01renklWeb/01renklWeb-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Who Should Live in Flooded Old New York?</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/future-climate-change-flooded-new-york-city.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/future-climate-change-flooded-new-york-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/future-climate-change-flooded-new-york-city.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Residents of the drowned city remain illegally, and have nowhere else to go.</description>
+      <dc:creator>Brooke Bolander</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 15:22:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/sunday/01bolander/d68ca4cb96d64185932d09d2ba2f51f9-moth.jpg" width="151"></media:content>
+      <media:credit>John Karborn</media:credit>
+    </item>
+    <item>
+      <title>A Hong Kong Protester’s Tactic: Get the Police  to Hit You</title>
+      <link>https://www.nytimes.com/2019/06/30/opinion/hong-kong-protests-police-violence.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/opinion/hong-kong-protests-police-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/opinion/hong-kong-protests-police-violence.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Using aggressive nonviolence to provoke the authorities and win over the public.</description>
+      <dc:creator>Fred Chan Ho-fai</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hong Kong Indigenous</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Occupy Central</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leung, Edward (1991- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>What if All Your Slack Chats Were Leaked?</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/slack-chat-hackers-encryption.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/slack-chat-hackers-encryption.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/slack-chat-hackers-encryption.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Unless the company makes changes to its encryption and retention policies, using Slack could put your data at risk.</description>
+      <dc:creator>Gennie Gebhart</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Slack</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/sunday/01Gebhart/3a3686bbfe474a98a7b8f38189a55c7f-moth.jpg" width="151"></media:content>
+      <media:credit>Alyssa Foote</media:credit>
+    </item>
+    <item>
+      <title>The Trump Fallacy</title>
+      <link>https://www.nytimes.com/2019/06/30/opinion/trump-fallacy.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/opinion/trump-fallacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/opinion/trump-fallacy.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Despite what some of the president’s supporters think, you cannot celebrate his policies and ignore his poor behavior.</description>
+      <dc:creator>Greg Weiner</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/opinion/30Weiner/30Weiner-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Why Can’t Pakistan Afford to Ban Indian Movies?</title>
+      <link>https://www.nytimes.com/2019/07/01/opinion/india-pakistan-movie-ban.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/opinion/india-pakistan-movie-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/opinion/india-pakistan-movie-ban.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Despite efforts to introduce movies from other cultures, Bollywood remains the primary choice for the country’s moviegoers.</description>
+      <dc:creator>Mazhar Zaidi</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jaish-e-Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Shahrukh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musharraf, Pervez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir and Jammu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/opinion/01zaidiWeb/01zaidiWeb-moth.jpg" width="151"></media:content>
+      <media:credit>Paula Bronstein/Getty Images</media:credit>
+      <media:description>A torn movie poster outside a theater in Lahore, Pakistan.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Iran Strategy Will Fail. Here’s Why.</title>
+      <link>https://www.nytimes.com/2019/06/30/opinion/trump-iran-revolutionary-guards.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/opinion/trump-iran-revolutionary-guards.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/opinion/trump-iran-revolutionary-guards.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>‘Maximum pressure’ will only strengthen the Revolutionary Guards, which has recast itself as the defender of a new, nationalist narrative.</description>
+      <dc:creator>Narges Bajoghli</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:39:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+    </item>
+    <item>
+      <title>N.B.A. Free Agency Updates: Signings, Trades and More</title>
+      <link>https://www.nytimes.com/2019/07/01/sports/basketball/nba-free-agency-tracker.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/sports/basketball/nba-free-agency-tracker.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/sports/basketball/nba-free-agency-tracker.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Kevin Durant. Kyrie Irving. Jimmy Butler. But no Kawhi Leonard (so far). Dozens of deals have been reported, and the chaos has only just begun.</description>
+      <dc:creator>Scott Cacciola, Sopan Deb and Marc Stein</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:19:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Free Agents (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trades (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Butler, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durant, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Tobias (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iguodala, Andre</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Irving, Kyrie</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/sports/01nbafreeagency/01nbafreeagency-moth.jpg" width="151"></media:content>
+      <media:credit>Vaughn Ridley/Getty Images</media:credit>
+      <media:description>Kevin Durant before Game 5 of the NBA Finals last month.</media:description>
+    </item>
+    <item>
+      <title>‘Three Women’ Takes a Long, Close Look at Sex Lives</title>
+      <link>https://www.nytimes.com/2019/06/28/books/review-three-women-lisa-taddeo.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/28/books/review-three-women-lisa-taddeo.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/28/books/review-three-women-lisa-taddeo.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Lisa Taddeo spent eight years with the subjects of her book, an immersive look at a particular story of female sexuality, refracted three ways.</description>
+      <dc:creator>Parul&#x9; Sehgal</dc:creator>
+      <pubDate>Fri, 28 Jun 2019 21:21:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Three Women (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taddeo, Lisa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/02/books/02booktaddeo1/02booktaddeo1-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandra Montalto/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Pete Buttigieg Raised $24.8 Million in Second Quarter, His Campaign Says</title>
+      <link>https://www.nytimes.com/2019/07/01/us/politics/pete-buttigieg-fundraising.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/us/politics/pete-buttigieg-fundraising.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/us/politics/pete-buttigieg-fundraising.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Mr. Buttigieg’s total is the latest evidence that he has gone from a long shot to a serious candidate for the Democratic nomination in a matter of months.</description>
+      <dc:creator>Thomas Kaplan</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 14:27:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buttigieg, Pete (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/us/politics/01buttigieg-money1/01buttigieg-money1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Pete Buttigieg after a Democratic presidential debate in Miami on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Israel Is Blamed for Deadly Missile Strikes in Syria</title>
+      <link>https://www.nytimes.com/2019/07/01/world/middleeast/israel-syria-airstrikes.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/world/middleeast/israel-syria-airstrikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/world/middleeast/israel-syria-airstrikes.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A series of overnight attacks by warplanes hit Syrian and Iranian-affiliated targets amid escalating tensions between Washington and Tehran in the region.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 14:55:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syrian Observatory for Human Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/world/01Syria1/01Syria1-moth.jpg" width="151"></media:content>
+      <media:credit>Youssef Karwashan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A still from a video showing smoke near the Syrian capital, Damascus, after a reported Israeli airstrike.</media:description>
+    </item>
+    <item>
+      <title>Mexico Hailstorm Blankets Western Areas Under 3 Feet of Ice</title>
+      <link>https://www.nytimes.com/2019/07/01/world/americas/mexico-hail-storm-guadalajara.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/world/americas/mexico-hail-storm-guadalajara.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/world/americas/mexico-hail-storm-guadalajara.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A local mayor said he had never seen anything like it. The Mexican Army also assisted in the cleanup.</description>
+      <dc:creator>Iliana Magra</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:34:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalajara (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Lil Nas X Comes Out on Last Day of Pride Month</title>
+      <link>https://www.nytimes.com/2019/07/01/arts/music/lil-nas-x-c7osure.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/arts/music/lil-nas-x-c7osure.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/arts/music/lil-nas-x-c7osure.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The 20-year-old “Old Town Road” rapper pointed to the lyrics of “c7osure,” a song off his new EP, as confirmation of his sexuality.</description>
+      <dc:creator>Julia Jacobs</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lil Nas X (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">c7osure (Song)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/arts/01lilnasx-item-BET/01lilnasx-item-BET-moth.jpg" width="151"></media:content>
+      <media:credit>Jean-Baptiste Lacroix/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Lil Nas X performing “Old Town Road” at the BET awards last week. The rapper’s coming out on social media feels fitting, as he built his fame as an amateur meme maker.</media:description>
+    </item>
+    <item>
+      <title>La Scala Opera Chooses New Leader</title>
+      <link>https://www.nytimes.com/2019/07/01/arts/music/la-scala-opera-dominique-meyer.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/arts/music/la-scala-opera-dominique-meyer.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/arts/music/la-scala-opera-dominique-meyer.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Dominique Meyer, the head of the Vienna State Opera, will take over at the storied Italian institution in 2021.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:50:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">La Scala Opera House (Milan, Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vienna State Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyer, Dominique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pereira, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+    </item>
+    <item>
+      <title>Under Modi, Hindus Find Hope for a Temple on Disputed Speck of Land</title>
+      <link>https://www.nytimes.com/2019/07/01/world/asia/india-hindus-muslims-ayodhya.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/world/asia/india-hindus-muslims-ayodhya.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/world/asia/india-hindus-muslims-ayodhya.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Hindus and Muslims have long sparred over a few barren acres in the city of Ayodhya. But since Prime Minister Narendra Modi’s commanding election win, Hindus feel a new optimism.</description>
+      <dc:creator>Kai Schultz and Hari Kumar</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 07:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ayodhya (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/world/00india-temple-dispatch-1/00india-temple-dispatch-1-moth.jpg" width="151"></media:content>
+      <media:credit>Rebecca Conway for The New York Times</media:credit>
+      <media:description>A model of a proposed Hindu temple draws visitors in Ayodhya, India. Since elections in May, Hindus have become increasingly confident that the temple will be built on a disputed site.</media:description>
+    </item>
+    <item>
+      <title>Poachers Are Invading Botswana, Last Refuge of African Elephants</title>
+      <link>https://www.nytimes.com/2019/07/01/science/elephants-poaching-botswana.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/science/elephants-poaching-botswana.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/science/elephants-poaching-botswana.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>New data leave little doubt that the illegal ivory trade has reached the country, scientists say.</description>
+      <dc:creator>Rachel Nuwer</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:50:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ivory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Investigation Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Botswana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/science/01SCI-BOTSWANAELEPHANTS3/01SCI-BOTSWANAELEPHANTS3-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Heald/NPL/Minden Pictures</media:credit>
+      <media:description>Elephants in Chobe National Park in northern Botswana.</media:description>
+    </item>
+    <item>
+      <title>Wounded by Chemical Weapons in Iraq, Veterans Fight a Lonely Battle for Help</title>
+      <link>https://www.nytimes.com/2019/06/26/magazine/chemical-weapons-military-iraq.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/26/magazine/chemical-weapons-military-iraq.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/26/magazine/chemical-weapons-military-iraq.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Annette Nellis and three other airmen came forward with health issues years after they were exposed to chemicals during a training exercise. When will the military provide the recognition they were promised?</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Wed, 26 Jun 2019 12:06:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Purple Heart (Military Decoration)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veterans Affairs Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Balad (Iraq)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/26/magazine/26atwar-pjgas-image-01/26atwar-pjgas-image-03-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Eich for The New York Times</media:credit>
+      <media:description>During a mission in Iraq in 2005, Annette Nellis saw pinhead-size blisters forming on her face and chest. Within six hours, those blisters had each grown to half the size of a dime.</media:description>
+    </item>
+    <item>
+      <title>2,000 Cameras Will Be Watching How You Drive in New York City</title>
+      <link>https://www.nytimes.com/2019/07/01/nyregion/speeding-cameras-nyc.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/nyregion/speeding-cameras-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/nyregion/speeding-cameras-nyc.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Will the nation’s largest urban network of speed cameras make the city safer or “one big speed trap?”</description>
+      <dc:creator>Winnie Hu</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 16:50:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speed Limits and Speeding</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Alternatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gounardes, Andrew S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trottenberg, Polly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/10/nyregion/00speedcameras1/00speedcameras1-moth.jpg" width="151"></media:content>
+      <media:credit>James Estrin/The New York Times</media:credit>
+      <media:description>A camera was installed on West End Avenue on the Upper West Side of Manhattan as part of a major expansion of a program in New York City to discourage speeding near schools.</media:description>
+    </item>
+    <item>
+      <title>5 Cheap(ish) Things to Keep Your Bedroom Cool</title>
+      <link>https://www.nytimes.com/2019/06/30/smarter-living/5-cheap-ish-things-to-keep-your-bedroom-cool.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/smarter-living/5-cheap-ish-things-to-keep-your-bedroom-cool.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/smarter-living/5-cheap-ish-things-to-keep-your-bedroom-cool.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>As summer heats up, here are some ways to keep cool at home.</description>
+      <dc:creator>Christine Cyr Clisset</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:47:27 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/smarter-living/01sl-newsletter-bedroom/01sl-newsletter-bedroom-moth.jpg" width="151"></media:content>
+      <media:credit>Katherine Marks for The New York Times</media:credit>
+      <media:description>Northwest view from bedroom in Manhattan.</media:description>
+    </item>
+    <item>
+      <title>Could Ancient Greek Philosophy Help You Work Smarter and Better?</title>
+      <link>https://www.nytimes.com/2019/06/27/smarter-living/ancient-greek-philosophy-humors-work-smarter-productivity.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/27/smarter-living/ancient-greek-philosophy-humors-work-smarter-productivity.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/27/smarter-living/ancient-greek-philosophy-humors-work-smarter-productivity.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The idea of “temperaments” or “humors” has been long debunked, but thinking in terms of broad personality types may actually help you get things done.</description>
+      <dc:creator>Elizabeth Grace Saunders</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:47:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/smarter-living/01sl_fourtempermants/00sl_fourtempermants-moth.jpg" width="151"></media:content>
+      <media:credit>Julia Schwarz</media:credit>
+    </item>
+    <item>
+      <title>10 Ways to Lower the Cancer Risk of Grilling</title>
+      <link>https://www.nytimes.com/2019/06/27/well/eat/10-ways-to-lower-the-cancer-risk-of-grilling.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/27/well/eat/10-ways-to-lower-the-cancer-risk-of-grilling.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/27/well/eat/10-ways-to-lower-the-cancer-risk-of-grilling.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>If you plan to grill often experts suggest taking some small steps to make a big difference in lowering your exposure to compounds that are tied to cancer.</description>
+      <dc:creator>Sophie Egan</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:47:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seafood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grilling (Cooking)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/02/science/02-well-grilling/well-grilling-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Graydon for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Taylor Swift on Scooter Braun Buying Her Old Label: ‘My Worst Case Scenario’</title>
+      <link>https://www.nytimes.com/2019/06/30/arts/music/taylor-swift-music-scooter-braun.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/arts/music/taylor-swift-music-scooter-braun.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/arts/music/taylor-swift-music-scooter-braun.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>In a Tumblr post on Sunday, the singer called out the powerful music manager for his purchase of her back catalog.</description>
+      <dc:creator>Joe Coscarelli</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Big Machine Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braun, Scooter (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borchetta, Scott</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/arts/30taylor/30taylor-moth.jpg" width="151"></media:content>
+      <media:credit>Rich Fury/Getty Images for Iheartmedia</media:credit>
+      <media:description>The sale “has stripped me of my life’s work,” Taylor Swift wrote Sunday. She accused Scooter Braun of “incessant, manipulative bullying.”</media:description>
+    </item>
+    <item>
+      <title>Serena Williams’s Coach Says She Is Pain Free. Watch Out, Wimbledon?</title>
+      <link>https://www.nytimes.com/2019/06/29/sports/wimbledon-serena-williams.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/29/sports/wimbledon-serena-williams.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/29/sports/wimbledon-serena-williams.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>If she is healthy, Williams can defeat any woman on grass, even at 37. But her health has been a persistent concern.</description>
+      <dc:creator>Christopher Clarey</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wimbledon Tennis Tournament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mouratoglou, Patrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/29/sports/29clarey/29clarey-moth-v2.jpg" width="151"></media:content>
+      <media:credit>TPN/Getty Images</media:credit>
+      <media:description>Serena Williams, who has won Wimbledon seven times, is in the toughest quarter of this year’s draw.</media:description>
+    </item>
+    <item>
+      <title>The Prom Where the City Councilman Dances the Jennifer Grey Part from ‘Dirty Dancing.’ And He’s Not Bad.</title>
+      <link>https://www.nytimes.com/2019/06/27/nyregion/cora-dance-red-hook-carlos-menchaca.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/27/nyregion/cora-dance-red-hook-carlos-menchaca.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/27/nyregion/cora-dance-red-hook-carlos-menchaca.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Sneaking a peek at an annual dance in Brooklyn, when a local politician wore a ball gown. He looked fabulous.</description>
+      <dc:creator>John Leland and Gaia Squarci</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:06:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cora Dance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Sandy (2012)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hummel, Shannon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Squarci, Gaia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Hook (Brooklyn, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/20/nyregion/00REDHOOKPROMpromo/00REDHOOKPROMpromo-moth.jpg" width="151"></media:content>
+      <media:credit>Gaia Squarci for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Review: Hugh Jackman Isn’t Quite the Greatest Showman in an Arena</title>
+      <link>https://www.nytimes.com/2019/06/30/theater/hugh-jackman-madison-square-garden-review.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/theater/hugh-jackman-madison-square-garden-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/theater/hugh-jackman-madison-square-garden-review.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>His world tour “The Man. The Music. The Show.” stopped at Madison Square Garden. But it would have been better on Broadway.</description>
+      <dc:creator>Laura Collins-Hughes</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 17:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York City Gay Men&#39;s Chorus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackman, Hugh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pasek, Benj</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Settle, Keala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/arts/30jackman/30jackman-moth-v2.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Hugh Jackman during his arena tour concert “The Man. The Music. The Show.” at Madison Square Garden.</media:description>
+    </item>
+    <item>
+      <title>South Africa Meets South Asia at Peri Peri Grill House</title>
+      <link>https://www.nytimes.com/2019/06/27/dining/peri-peri-grill-house-review.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/27/dining/peri-peri-grill-house-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/27/dining/peri-peri-grill-house-review.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Smoke, spice and an eclectic menu are the hallmarks of this small restaurant in Bedford-Stuyvesant, Brooklyn.</description>
+      <dc:creator>Mahira Rivers</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:35:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peri Peri Grill House (Brooklyn, NY, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halal Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedford-Stuyvesant (Brooklyn, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/27/dining/27HUNGRY-slide-U717/27HUNGRY-slide-U717-moth.jpg" width="151"></media:content>
+      <media:credit>Caitlin Ochs for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Do Hand Dryers Hurt Kids’ Hearing? This 13-Year-Old Studied It</title>
+      <link>https://www.nytimes.com/2019/07/01/us/hand-dryers-children.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/us/hand-dryers-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/us/hand-dryers-children.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Nora Keegan noticed that dryers tended to be closer to children’s ears. So she set out on a study that was eventually published in a medical journal in Canada.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 13:04:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ears and Hearing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bathrooms and Toilets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Paediatric Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keegan, Nora</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/28/reader-center/01xp-dryers2/01xp-dryers2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Susan Bannister</media:credit>
+      <media:description>Nora Keegan after winning a medal at a science fair for her research on the noise levels of hand dryers.</media:description>
+    </item>
+    <item>
+      <title>Drugged, Castrated, Eager to Mate: the Lives of Fungi-Infected Cicadas</title>
+      <link>https://www.nytimes.com/2019/06/28/science/cicadas-fungus-butts.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/28/science/cicadas-fungus-butts.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/28/science/cicadas-fungus-butts.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>“This really has all the elements of a sci-fi horror story,” a mycologist said.</description>
+      <dc:creator>JoAnna Klein</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 09:37:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cicadas (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fungi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kasson, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fungal Ecology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/28/science/28TB-CICADA/28TB-CICADA-moth.jpg" width="151"></media:content>
+      <media:credit>Kasson et al.</media:credit>
+      <media:description>When cicadas are infected by a parasitic fungus, the insect’s innards get digested and their rear ends are replaced by a chalky white plug of spores.</media:description>
+    </item>
+    <item>
+      <title>Reversing the Damage of a Stroke</title>
+      <link>https://www.nytimes.com/2019/07/01/well/live/reversing-the-damage-of-a-massive-stroke.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/well/live/reversing-the-damage-of-a-massive-stroke.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/well/live/reversing-the-damage-of-a-massive-stroke.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>For one patient, a decade of recovery took determination, persistence and the courage to weather repeated setbacks.</description>
+      <dc:creator>Jane E. Brody</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 14:33:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/02/science/02BRODYSTROKE/02BRODYSTROKE-moth.jpg" width="151"></media:content>
+      <media:credit>Gracia Lam</media:credit>
+    </item>
+    <item>
+      <title>Keeping the Fun in Children’s Sports</title>
+      <link>https://www.nytimes.com/2019/07/01/well/family/keeping-the-fun-in-childrens-sports.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/01/well/family/keeping-the-fun-in-childrens-sports.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/01/well/family/keeping-the-fun-in-childrens-sports.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>“The evidence shows that what makes sports really fun for kids is trying hard, making progress, being a good sport, experiencing positive coaching,” a doctor of sports medicine said.</description>
+      <dc:creator>Perri Klass, M.D.</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 14:35:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/01/well/01klass-sports/44aef00815ec40f4a49a6a229ddb4faf-moth.jpg" width="151"></media:content>
+      <media:credit>iStock</media:credit>
+    </item>
+    <item>
+      <title>Reefer Madness or Pot Paradise? The Surprising Legacy of the Place Where Legal Weed Began</title>
+      <link>https://www.nytimes.com/2019/06/30/us/marijuana-colorado-legalization.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/30/us/marijuana-colorado-legalization.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/30/us/marijuana-colorado-legalization.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Colorado’s first-in-the-nation experiment with legalized marijuana has infused the drug into almost every corner of life.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Sun, 30 Jun 2019 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/06/us/00marijuana-01/00marijuana-01-moth.jpg" width="151"></media:content>
+      <media:credit>Benjamin Rasmussen for The New York Times</media:credit>
+      <media:description>Workers prepared for marijuana planting on Woody Farms in Pueblo, Colo. The state’s first-in-the-nation experiment with legalizing recreational marijuana put it on the front lines of changing America’s drug laws.</media:description>
+    </item>
+    <item>
+      <title>For a ‘Saturday Night Live’ Writer, a Permanent Musical Guest</title>
+      <link>https://www.nytimes.com/2019/06/28/style/for-a-saturday-night-live-writer-a-permanent-musical-guest.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/28/style/for-a-saturday-night-live-writer-a-permanent-musical-guest.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/28/style/for-a-saturday-night-live-writer-a-permanent-musical-guest.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The Swedish rapper Rebin Shah, a.k.a. Rebstar, and Megan Callahan were married in a low-key ceremony in Tarrytown, N.Y.</description>
+      <dc:creator>Alix Strauss</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 14:02:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raya App LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/30/fashion/weddings/28VOWS-SNL-Rebstar1/28VOWS-SNL-Rebstar1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Lauren Lancaster for The New York Times</media:credit>
+      <media:description>Megan Callahan and Rebin Shah surrounded by family members and friends at Blue Hill at Stone Barns in Tarrytown, N.Y.</media:description>
+    </item>
+    <item>
+      <title>How to Host a Relaxed, Italian-Style Late Lunch</title>
+      <link>https://www.nytimes.com/2019/06/27/t-magazine/amber-camilla-guinness-arniano-painting-school.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/06/27/t-magazine/amber-camilla-guinness-arniano-painting-school.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/06/27/t-magazine/amber-camilla-guinness-arniano-painting-school.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The chef Amber Guinness, who runs the Arniano Painting School from her family’s country house in Tuscany, shares her tips for easygoing entertaining.</description>
+      <dc:creator>Laura Rysman</dc:creator>
+      <pubDate>Mon, 01 Jul 2019 15:57:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Italian Food (Cuisine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hazan, Marcella (1924-2013)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuscany (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/25/t-magazine/entertainment/amber-guinness-slide-KSF6/amber-guinness-slide-KSF6-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Andrea Wyner</media:credit>
+      <media:description>The garden at Villa Arniano, the Tuscan farmhouse owned by the Guinness family, which for four weeks each year hosts the Arniano Painting School.</media:description>
+    </item>
+  </channel>
+</rss>
