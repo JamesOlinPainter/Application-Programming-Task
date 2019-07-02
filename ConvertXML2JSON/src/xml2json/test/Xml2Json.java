@@ -6,11 +6,10 @@ import java.net.URL;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TimeZone;
-
 import org.apache.commons.lang3.StringUtils;
 
 public class Xml2Json {
@@ -105,19 +104,36 @@ public class Xml2Json {
 						mostRecentUpdate = lbd;
 					}
 					System.out.println("Most recent update to RSS feed : " + mostRecentUpdate);
+					Date result;
 					if (mostRecentUpdate.charAt(0) == 'N') {
 						System.out.println("No Update information");
+						Calendar cal = Calendar.getInstance();
+						result = cal.getTime();
 					} else if (Character.isDigit(mostRecentUpdate.charAt(0))) {
 						DateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
-						Date result;
 						result = df.parse(mostRecentUpdate);
 					    System.out.println("date:" + result.toString());
 					} else {
 						DateFormat df = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss Z");
-						Date result;
 						result = df.parse(mostRecentUpdate);
 						System.out.println("date:" + result.toString());
 					}
+					
+					Calendar now = Calendar.getInstance();
+					Calendar start = Calendar.getInstance();
+					start.setTime (result);
+
+					long milliseconds1 = start.getTimeInMillis();
+					long milliseconds2 = now.getTimeInMillis();
+					long diff = milliseconds2 - milliseconds1;
+					long diffMinutes = diff / (60 * 1000);
+					long diffHours = diff / (60 * 60 * 1000);
+					long diffDays = diff / (24 * 60 * 60 * 1000);
+					System.out.println("\nThe time since the last RSS feed update:");
+					System.out.println("Time in minutes: " + diffMinutes + " minutes.");
+					System.out.println("Time in hours: " + diffHours + " hours.");
+					System.out.println("Time in days: " + diffDays + " days.");
+					
 				} catch (MalformedURLException mue) {
 					mue.printStackTrace();
 				} catch (IOException ioe) {
