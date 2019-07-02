@@ -1,6 +1,4 @@
 
-<?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:base="http://dianerehm.org" xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<atom:link href="http://dianerehm.org/rss/npr/dr_podcast.xml" rel="self" type="application/rss+xml" />
 					<itunes:new-feed-url>https://dianerehm.org/rss/npr/dr_podcast.xml</itunes:new-feed-url>
@@ -11,129 +9,11 @@
 		<generator>WAMU Podcast Plugin</generator>
 		<itunes:explicit>no</itunes:explicit>
 		<copyright>Copyright WAMU 88.5 American University Radio - For Personal Use Only</copyright>
-		<pubDate>Mon, 01 Jul 2019 14:15:53 -0400</pubDate>
-		<lastBuildDate>Mon, 01 Jul 2019 14:15:53 -0400</lastBuildDate>
+		<pubDate>Mon, 01 Jul 2019 15:11:57 -0400</pubDate>
+		<lastBuildDate>Mon, 01 Jul 2019 15:11:57 -0400</lastBuildDate>
 		<itunes:author>WAMU 88.5</itunes:author>
 		<googleplay:author>WAMU 88.5</googleplay:author>
 		<itunes:email>webmaster@wamu.org</itunes:email>
 		<googleplay:email>webmaster@wamu.org</googleplay:email>
-
-			<itunes:keywords>Fans of the Diane Rehm Show can continue to listen to its trademark conversations with newsmakers, writers, artists and thinkers right here as Diane transitions this podcast to weekly episodes that we’ll be calling “On My Mind.”</itunes:keywords>
-				<itunes:subtitle>Diane Rehm: On My Mind from WAMU 88.5 American University Radio</itunes:subtitle>
-				<itunes:summary>Diane Rehm’s weekly podcast features newsmakers, writers, artists and thinkers on the issues she cares about most: what’s going on in Washington, ideas that inform, and the latest on living well as we live longer.</itunes:summary>
-				<itunes:image href="https://static.wamu.org/g/podcasts/dr-omm-podcast-logo-1400.png"/>
-			<itunes:owner>
-			<itunes:name>WAMU 88.5</itunes:name>
-			<itunes:email>webmaster@wamu.org</itunes:email>
-		</itunes:owner>		
-		<image>
-			<url>https://static.wamu.org/g/podcasts/dr-omm-podcast-logo-75.png</url>
-			<title>Diane Rehm: On My Mind</title>
-			<link>https://dianerehm.org</link>
-			<width>75</width>
-			<height>75</height>
-		</image>
-				 					<itunes:category text="News &amp; Politics"/>
-							
-			<item>
-	<title>Democratic Debates Tackle Age, Race And A Tilt To The Left</title>
-	<description><![CDATA[ <p>Democratic presidential hopefuls take the stage for two nights of debate. Winners, losers and what we learned about the state of the race.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-28/democratic-debates-tackle-age-race-and-a-tilt-to-the-left</guid>
-	<pubDate>Fri, 28 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190628.mp3" length="14689794" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>A Debut Novel On The State Of Marriage &#8211; And Divorce</title>
-	<description><![CDATA[ <p>Taffy Brodesser-Akner, a writer for New York Times Magazine, has a new book called "Fleishman Is In Trouble."</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-25/a-debut-novel-on-the-state-of-marriage-and-divorce</guid>
-	<pubDate>Tue, 25 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190625.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>The Crisis At The Border And What Can Be Done</title>
-	<description><![CDATA[ <p>President Trump is making immigration a central issue in his re-election campaign, just like he did in 2016. How should the Democratic candidates respond?</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-21/the-crisis-at-the-border-and-what-can-be-done</guid>
-	<pubDate>Fri, 21 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190621.mp3" length="12370383" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>Historian David McCullough On Some Of America&#8217;s Earliest Westward Pioneers</title>
-	<description><![CDATA[ <p>The settlers of the Ohio territories brought idealistic values with them.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-18/historian-david-mccullough-on-some-of-americas-earliest-westward-pioneers</guid>
-	<pubDate>Tue, 18 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190618.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>CNN&#8217;S Jim Acosta On The Dangers Of Trump&#8217;s Escalating Criticism Of The Media</title>
-	<description><![CDATA[ <p>CNN White House correspondent Jim Acosta on his clashes with Donald Trump, accusations of grandstanding and what it means when a president calls the media “the enemy of the people.”</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-14/cnns-jim-acosta-enemy-of-the-people</guid>
-	<pubDate>Fri, 14 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190614.mp3" length="14564575" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>On Fighting In A War That Has No Clear End</title>
-	<description><![CDATA[ <p>Elliot Ackerman served five tours in Iraq and Afghanistan. His new memoir is a reflection on his experiences, the region and a war that refuses to end.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-11/on-fighting-in-a-war-that-has-no-clear-end</guid>
-	<pubDate>Tue, 11 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190611.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>The Consequences Of Trump&#8217;s Tariff Threats Against Mexico</title>
-	<description><![CDATA[ <p>What the president's threatened tariffs against Mexico say about state of U.S. trade and the future of the Trump economy.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-07/the-consequences-of-trumps-tariff-threats-against-mexico</guid>
-	<pubDate>Fri, 07 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190607.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>America&#8217;s Urban-Rural Political Divide: Where It Came From And Why It Continues</title>
-	<description><![CDATA[ <p>The political divide between urban and rural America: why it is bad news for cities … and Democrats.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-06-04/the-consequences-of-americas-urban-rural-political-divide</guid>
-	<pubDate>Tue, 04 Jun 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/06/r1190604.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>A Partisan Response To The Special Counsel&#8217;s Public Statement</title>
-	<description><![CDATA[ <p>What Robert Mueller said – and how this changes the politics surrounding impeachment.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-05-31/a-partisan-response-to-the-special-counsels-public-statement</guid>
-	<pubDate>Fri, 31 May 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/05/r1190531.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>			<item>
-	<title>How Many Is Too Many? A Look At The 2020 Democratic Field</title>
-	<description><![CDATA[ <p>The Democrats have a record number of candidates running for president. What the crowded field means for the party and its chances in 2020.</p>
- ]]></description>
-	<guid isPermaLink="false">https://dianerehm.org/shows/2019-05-28/how-many-is-too-many-a-look-at-the-2020-democratic-field</guid>
-	<pubDate>Tue, 28 May 2019 12:00:00 -0400</pubDate>
-		<enclosure url="https://downloads.wamu.org/mp3/dr/19/05/r1190528.mp3" length="" type="audio/mpeg" />
-	<itunes:author>Diane Rehm</itunes:author>
-		<itunes:duration>45:30</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-</item>		</channel>
+</channel>
 </rss>
