@@ -3,13 +3,19 @@ package xml2json.test;
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TimeZone;
+
 import org.apache.commons.lang3.StringUtils;
 
 public class Xml2Json {
 	
-	public static void main(String[] args) throws FileNotFoundException{
+	public static void main(String[] args) throws FileNotFoundException, ParseException{
 		
 		Map<String, String[]> CompanyAndRssFeedURL = new HashMap<String, String[]>();
 		CompanyAndRssFeedURL.put("BBC", new String[] {"http://feeds.bbci.co.uk/news/rss.xml",
@@ -64,11 +70,12 @@ public class Xml2Json {
 	    BufferedReader br;
 	    String line, page = "";
 	    
-	    
+	    //	for loop 1
 	    for(String key : CompanyAndRssFeedURL.keySet()) {
 	    	System.out.println("Company : " + key);
 	    	String[] values = CompanyAndRssFeedURL.get(key);
 	    	int count = 1;
+	    	//	for loop 2
 	    	for (String value : values) {
 				System.out.println("	RSS feed URL #" + count + " : " + value);
 				count++;
@@ -98,6 +105,19 @@ public class Xml2Json {
 						mostRecentUpdate = lbd;
 					}
 					System.out.println("Most recent update to RSS feed : " + mostRecentUpdate);
+					if (mostRecentUpdate.charAt(0) == 'N') {
+						System.out.println("No Update information");
+					} else if (Character.isDigit(mostRecentUpdate.charAt(0))) {
+						DateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
+						Date result;
+						result = df.parse(mostRecentUpdate);
+					    System.out.println("date:" + result.toString());
+					} else {
+						DateFormat df = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss Z");
+						Date result;
+						result = df.parse(mostRecentUpdate);
+						System.out.println("date:" + result.toString());
+					}
 				} catch (MalformedURLException mue) {
 					mue.printStackTrace();
 				} catch (IOException ioe) {
@@ -110,8 +130,11 @@ public class Xml2Json {
 					}	//	end catch
 				}	//	end finally
 				page = "";
-	    	}	//	end for
-	    	
-	    }	//	end for
+	    	}	//	end for loop 2
+	    }	//	end for loop 1
+	    
+	    
+	    
+	    
 	}	//	end main
 }	//	end class
