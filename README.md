@@ -17,9 +17,14 @@ Given task:
            key : value
       company1 : [feed1, feed2, feed3]
       company2 : [feed1, feed2]
+      company3 : [feed1]
+      company4 : [feed1, feed2, feed3, feed4, feed5]
       ...
       
-  • rss format = lastBuildDate (Used to determine the last update time)
-    rdf format = syn:updateBase (Used to determine the last update time)
+  • rss format = <lastBuildDate> (Used to determine the last update time)
+    rdf format = <syn:updateBase> (Used to determine the last update time)
+    if nither find most recent <pubDate>
+  
+  • I am assuming what is meant by "which companies had no activity for a given number of days" is "what is the amount of time since the last update".
     
     
